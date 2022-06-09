@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Stores CURD test with steps","This will create a new Store","ERROR","2022-06-09T22:00:42.202+01:00[Europe/London]","0.0","32.79"
+"Stores CURD test with steps","Verify if the store was added to the application","ERROR","2022-06-09T22:01:16.161+01:00[Europe/London]","0.0","5.38"
+"Stores CURD test with steps","Update the store information and verify the updated information","ERROR","2022-06-09T22:01:21.559+01:00[Europe/London]","0.0","5.46"
+"Stores CURD test with steps","Delete the stores and verify if the stores is deleted!","ERROR","2022-06-09T22:01:27.023+01:00[Europe/London]","0.0","5.01"
